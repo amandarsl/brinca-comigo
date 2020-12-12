@@ -1,22 +1,11 @@
-# cra-template-tailwindcss-typescript
+## 💻 Sobre
+Projeto final com tema livre desenvolvido durante o bootcamp de front-end da {reprograma}, turma On8, em pareceria com a Accenture. Esse projeto foi escolhido e criado para servir como um guia de apoio e alerta aos pais sobre a necessidade da brincadeira na infância e como desenvolver melhor as habilidades desde o seu primeiro mês. O objetivo é proporcionar um local de fácil acesso a informação sobre o tema.
 
-A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
+## 🛠 Tecnologia
 
-> This template installs and sets up [Tailwind CSS](https://tailwindcss.com) and [craco](https://github.com/gsoft-inc/craco).
-
-## Usage
-
-```bash
-npx create-react-app --template tailwindcss-typescript
-```
-
-## Credits
-
-This project was made possible thanks to the following projects.
-
-1. [GeoffSelby/cra-template-tailwindcss](https://github.com/GeoffSelby/cra-template-tailwindcss) - A streamlined Tailwind CSS template for Create React App (in JavaScript).
-2. [cra-template-typescript](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript) - An official TypeScript template for create-react-app.
+- [React](https://pt-br.reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## License
 
-MIT © [Sung M. Kim](https://sung.codes)
+MIT © [Amanda Rebeca](https://linkedin.com/in/amandarsl)
