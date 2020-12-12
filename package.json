@@ -12,6 +12,7 @@
     "@types/react-dom": "^17.0.0",
     "autoprefixer": "10.x",
     "cross-env": "7.x",
+    "netlify-cli": "^2.69.6",
     "npm-run-all": "4.x",
     "postcss": "8.x",
     "postcss-cli": "8.x",
