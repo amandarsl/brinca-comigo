@@ -1,0 +1,34 @@
+[
+    {
+        "idade": "crianças pequenas",
+        "titulo": "Brinquedos e brincadeiras para crianças pequenas",
+        "chamada": "Brincar é o conjunto de atenção do adulto, planejamento do espaço e liberdade de ação da criança que faz a diferença na qualidade da brincadeira.",
+        "link": "https://www.fmcsv.org.br/pt-BR/biblioteca/brinquedos-brincadeiras-criancas-pequenas/",
+        "imagem": "https://image.isu.pub/191219180207-12cbced3b89d929b5c7bd1db3ae9c9bc/jpg/page_1_thumb_large.jpg"
+
+    },
+    {
+        "idade": "primeira infância",
+        "titulo": "A primeira infância",
+        "chamada": "Do nascimento até completar 6 anos. Essa é a primeira infância. É a janela em que experiências, descobertas e afeto são levados para o resto da vida.",
+        "link": "https://www.fmcsv.org.br/pt-BR/a-primeira-infancia/",
+        "imagem": "https://todospelaeducacao.org.br/wordpress/wp-content/uploads/2020/08/eca-29-anos-primeira-infancia-e-conversa-de-gente-grande-tambem.png"
+
+    },
+    {
+        "idade": "todas idades",
+        "titulo": "Deixa que eu conto",
+        "chamada": "“Deixa que Eu Conto” vai levar histórias, brincadeiras e atividades a crianças e famílias de todo o País, via rádio e internet, contribuindo com o direito de aprender, em tempos de coronavírus",
+        "link": "https://www.unicef.org/brazil/comunicados-de-imprensa/unicef-lanca-podcast-diario-para-ajudar-criancas-a-continuar-aprendendo-em-casa",
+        "imagem": "https://www.unicef.org/brazil/sites/unicef.org.brazil/files/styles/press_release_feature/public/br_bonito_liborio02.jpg?itok=idIsUovp"
+
+    },
+    {
+        "idade": "+3 anos",
+        "titulo": "3 atividades que ajudam na alfabetização",
+        "chamada": "Ensinar letra para alfabetizar não é a melhor solução.",
+        "link": "https://institutoneurosaber.com.br/3-atividades-que-ajudam-na-alfabetizacao/",
+        "imagem": "https://institutoneurosaber.com.br/wp-content/uploads/2018/03/alfabetizacao-autismo-1.jpg"
+
+    }
+]
