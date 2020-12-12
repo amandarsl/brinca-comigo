@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from "./components/Header.component"
+import Footer from "./components/Footer.component"
 import Brincadeira from "./components/Card.component"
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
           </div>
         </div>
       </section>
+      <Footer></Footer>
     </>
   );
 }
