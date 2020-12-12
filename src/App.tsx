@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from "./components/Header.component"
+import Brincadeira from "./components/Card.component"
 
 function App() {
   return (
@@ -7,7 +8,11 @@ function App() {
       <Header></Header>
       <section className="text-gray-700 body-font relative">
         <div className="container px-5 py-24 mx-auto">
-          <div className="flex flex-col text-center w-full mb-12">
+          <div className="flex flex-wrap -m-4">
+            <Brincadeira></Brincadeira>
+            <Brincadeira></Brincadeira>
+            <Brincadeira></Brincadeira>
+            <Brincadeira></Brincadeira>
           </div>
         </div>
       </section>
